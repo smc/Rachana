@@ -56139,8 +56139,8 @@ SplineSet
 EndSplineSet
 Refer: 146 3381 S 1 0 0 1 0 0 2
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" v1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" v1 l4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5 subtable" v1xx l3
 EndChar
 
 StartChar: v1l3u1
