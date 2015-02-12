@@ -21,13 +21,13 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1423592434
+ModificationTime: 1423764031
 PfmFamily: 17
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 6 3 0 0 0 0 0 0
+Panose: 2 0 8 3 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: -690
@@ -53,6 +53,7 @@ OS2StrikeYSize: 102
 OS2StrikeYPos: 512
 OS2CapHeight: 0
 OS2XHeight: 0
+OS2FamilyClass: 768
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002000.00000000.00000000
