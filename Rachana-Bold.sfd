@@ -3,7 +3,7 @@ FontName: Rachana-Bold
 FullName: Rachana Bold
 FamilyName: Rachana
 Weight: Bold
-Copyright: Digitized data copyright(c) 2015 Hussain KH, Rajeesh K Nambiar,\nSwathanthra Malayalam Computing (http://smc.org.in)\n\nThis font is developed with the financial support from International Centre for Free and Open Source Software(ICFOSS), Govt of Kerala in 2014-15
+Copyright: Digitized data copyright(c) 2015 Hussain KH, Rajeesh K Nambiar,\nSwathanthra Malayalam Computing (http://smc.org.in)\n\nDeveloped with the financial support from International Centre for Free and Open Source Software(ICFOSS), Govt of Kerala in 2014-15
 Version: 1.0-beta
 ItalicAngle: 0
 UnderlinePosition: -520
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1427533184
+ModificationTime: 1427551563
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
