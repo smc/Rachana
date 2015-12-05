@@ -1106,19 +1106,19 @@ lookup haln_chillu {
     sub r3 xx ZWJ  by r3cil;
 } haln_chillu;
 
-lookup onum_oldnumbers {
-  lookupflag 0;
-    sub zero by zero.old ;
-    sub one by one.old ;
-    sub two by two.old ;
-    sub three by three.old ;
-    sub four by four.old ;
-    sub five by five.old ;
-    sub six by six.old ;
-    sub seven by seven.old ;
-    sub eight by eight.old ;
-    sub nine by nine.old ;
-} onum_oldnumbers;
+#lookup onum_oldnumbers {
+#  lookupflag 0;
+#    sub zero by zero.old ;
+#    sub one by one.old ;
+#    sub two by two.old ;
+#    sub three by three.old ;
+#    sub four by four.old ;
+#    sub five by five.old ;
+#    sub six by six.old ;
+#    sub seven by seven.old ;
+#    sub eight by eight.old ;
+#    sub nine by nine.old ;
+#} onum_oldnumbers;
 
 lookup abvm_dotreph {
   lookupflag 0;

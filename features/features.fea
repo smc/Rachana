@@ -116,21 +116,21 @@ feature abvm {
             lookup abvm_dotreph;
 } abvm;
 
-feature onum {
+#feature onum {
+#
+# script DFLT;
+#     language dflt ;
+#      lookup onum_oldnumbers;
+#
+# script latn;
+#     language dflt ;
+#      lookup onum_oldnumbers;
 
- script DFLT;
-     language dflt ;
-      lookup onum_oldnumbers;
+# script mlm2;
+#     language dflt ;
+#      lookup onum_oldnumbers;
 
- script latn;
-     language dflt ;
-      lookup onum_oldnumbers;
-
- script mlm2;
-     language dflt ;
-      lookup onum_oldnumbers;
-
- script mlym;
-     language dflt ;
-      lookup onum_oldnumbers;
-} onum;
+# script mlym;
+#     language dflt ;
+#      lookup onum_oldnumbers;
+#} onum;
