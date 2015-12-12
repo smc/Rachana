@@ -8,8 +8,8 @@ Version: 6.1.1
 ItalicAngle: 0
 UnderlinePosition: -520
 UnderlineWidth: 34
-Ascent: 1638
-Descent: 410
+Ascent: 1434
+Descent: 614
 InvalidEm: 0
 sfntRevision: 0x00060000
 LayerCount: 2
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1449919293
+ModificationTime: 1449919411
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
