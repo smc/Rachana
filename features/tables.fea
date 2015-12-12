@@ -13,10 +13,9 @@
     th2 th3 th4 n1 p1 p2 p3 p4 m1 y1 r3 rh l3 lh zh v1 z1 sh s1 h1 avagraha 
     a2 i1 i2 u1 u2 r1 e1 e2 ai1 o1 o2 au1 au2 ml_rr ml_ll ml_0 ml_1 ml_2 
     ml_3 ml_4 ml_5 ml_6 ml_7 ml_8 ml_9 ZWNJ ZWJ uni25CC NULL rupee datemark 
-    ml_1000 l2 l1 n2 r2 ml_100 ml_10 ml_quarter ml_half ml_3quarter rh_half 
-    singlequoteleft singlequoteright doublequoteleft doublequoteright 
+    ml_1000 l2 l1 n2 r2 ml_100 ml_10 ml_quarter ml_half ml_3quarter rh_half
     endash emdash bullet zero.old one.old two.old three.old four.old 
-    five.old six.old seven.old eight.old nine.old dagger section
+    five.old six.old seven.old eight.old nine.old
     onequarter onehalf threequarters ellipsis plusminus multiply 
     circumflex  Acircumflex 
     Ecircumflex Icircumflex Ocircumflex Ucircumflex acircumflex ecircumflex 
@@ -31,9 +30,9 @@
     copyright bracketleft bracketright brokenbar currency 
     currency sterling yen section ordmasculine Euro ordfeminine 
     registered uni00B2 uni00B3 mu uni00B9 oslash Oslash Yacute germandbls 
-    Thorn thorn minus uni2074 ae AE endash emdash
+    Thorn thorn minus uni2074 ae AE
     quotedblbase cedilla 
-    Ccedilla ccedilla oe OE dotlessi eth bullet];
+    Ccedilla ccedilla oe dotlessi eth bullet];
 @GDEF_Ligature = [r4 y2 y2u1 y2u2 v2 nhcil n1cil r3cil l3cil lhcil k1cil 
     k1u1 k1u2 k1r1 k1r2 k1l1 k1k1 k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1k1r3u1 
     k1k1r3u2 k1t1 k1t1u1 k1t1u2 k1t1r3 k1t1r3u1 k1t1r3u2 k1nh k1nhu1 k1nhu2 
@@ -44,7 +43,6 @@
     k2u1 k2u2 k2r1 k3u1 k3u2 k3r1 k3r2 k3k3 k3k3u1 k3k3u2 k3k3r1 k3k4 
     k3k4u1 k3k4u2 k3k4r1 k3th3 k3th3u1 k3th3u2 k3th3r1 k3th3th4 k3th3th4u1 
     k3th3th4u2 k3th3th4r1 k3th3th4r3 k3th3th4r3u1 k3th3th4r3u2 k3n1 k3n1u1 
-    k3n1u2 k3m1 k3m1u1 k3m1u2 k3r3 k3r3u1 k3r3u2 k3l3 k3l3u1 k3l3u2 k4u1 
     k4u2 k4r1 k4r2 k4n1 k4n1u1 k4n1u2 k4r3 k4r3u1 k4r3u2 ngu1 ngu2 ngk1 
     ngk1u1 ngk1u2 ngk1r1 ngng ngngu1 ngngu2 ch1u1 ch1u2 ch1ch1 ch1ch1u1 
     ch1ch1u2 ch1ch2 ch1ch2u1 ch1ch2u2 ch1ch2r1 ch1ch2r3 ch1ch2r3u1 
