@@ -20,6 +20,29 @@ Malayalam.
 
 License : GPLv3 or Later+ Font Exception
 
+Installation
+==========
+You can find this font in [fonts page](http://smc.org.in/fonts/) of Swathanthra Malayalam Computing site
+
+###Steps for installation
+
+* Download the font
+* To setup the fonts just copy it to ~/.fonts directory 
+* If you want it to be available to all users copy it to /usr/share/fonts.
+* You can check whether the fonts are installed correctly by running the command ```fc-list |grep Rachana ``` 
+* Restart the running applications so that the new fonts are available to them.
+* All aplications which depend on font config will be able to use the newly installed fonts.
+
+Compilation
+===========
+To compile the font, clone the repository to your machine
+
+```
+git clone https://github.com/smc/Rachana.git
+cd Rachana
+make -f Makefile
+```
+
 Rachana Bold
 ==========
 Rachana Bold is created by designer of Rachana font, K.H Hussain . 
