@@ -40,7 +40,7 @@ To compile the font, clone the repository to your machine
 ```
 git clone https://github.com/smc/Rachana.git
 cd Rachana
-make -f Makefile
+make
 ```
 
 Rachana Bold
