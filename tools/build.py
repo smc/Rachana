@@ -12,6 +12,8 @@ for lookup in font.gpos_lookups:
 
 # Merge the new featurefile 
 font.mergeFeature(sys.argv[2])
+if sys.argv[3]:
+	font.mergeFeature(sys.argv[3])
 font.version = time.strftime('%Y%m%d')
 font.selection.all()
 #font.simplify()
