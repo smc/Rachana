@@ -16,7 +16,24 @@
     ml_1000 l2 l1 n2 r2 ml_100 ml_10 ml_quarter ml_half ml_3quarter rh_half 
     singlequoteleft singlequoteright doublequoteleft doublequoteright 
     endash emdash bullet zero.old one.old two.old three.old four.old 
-    five.old six.old seven.old eight.old nine.old dagger section ];
+    five.old six.old seven.old eight.old nine.old dagger section
+    onequarter onehalf threequarters ellipsis plusminus multiply 
+    circumflex  Acircumflex 
+    Ecircumflex Icircumflex Ocircumflex Ucircumflex acircumflex ecircumflex 
+    icircumflex ocircumflex ucircumflex tilde Atilde Ntilde Otilde atilde 
+    ntilde otilde dieresis Adieresis Edieresis Idieresis Odieresis 
+    Udieresis adieresis edieresis idieresis odieresis udieresis acute 
+    Aacute Eacute Iacute Oacute Uacute aacute eacute iacute oacute uacute 
+    grave Agrave Egrave Igrave Ograve Ugrave agrave egrave igrave ograve 
+    ugrave yacute ydieresis macron questiondown periodcentered degree 
+    backslash underscore Eth Aring aring divide exclamdown guillemotleft 
+    guillemotright guilsinglright asciicircum cent 
+    copyright bracketleft bracketright brokenbar currency 
+    currency sterling yen section ordmasculine Euro ordfeminine 
+    registered uni00B2 uni00B3 mu uni00B9 oslash Oslash Yacute germandbls 
+    Thorn thorn minus uni2074 ae AE endash emdash
+    quotedblbase cedilla 
+    Ccedilla ccedilla oe OE dotlessi eth bullet];
 @GDEF_Ligature = [r4 y2 y2u1 y2u2 v2 nhcil n1cil r3cil l3cil lhcil k1cil 
     k1u1 k1u2 k1r1 k1r2 k1l1 k1k1 k1k1u1 k1k1u2 k1k1r1 k1k1r3 k1k1r3u1 
     k1k1r3u2 k1t1 k1t1u1 k1t1u2 k1t1r3 k1t1r3u1 k1t1r3u2 k1nh k1nhu1 k1nhu2 
