@@ -1,24 +1,11 @@
 Rachana
 =======
-Rachana is a language campaign forum  started in 1999 for the 
-Original script of Malayalam in the digital computing. The 
-Rachana font is a Malayalam traditional script font with 
-exhaustive character set of Malayalam primarily created
-for the GNU/Linux system.
 
-Rachana font is created by Rachana Akshara Vedi  in 2005 . 
-It is currently maintained by 
- 
-1. Mr.Hussain K H, Rachana Aksharavedi and an ardent
- supporter of traditional Malayalam orthography.
-2. Suresh P, A free software enthusiast and hobbyist).
-3. Santhosh Thottingal ( Santhosh.thottingal@gmail.com)
-4. Rajeesh K Nambiar ( Rajeeshknambiar@gmail.com)
-5. Swathanthra Malayalam Computing - A free software collective engaged in
-development, localization and popularization of various free software for
-Malayalam.
+Rachana is Malayalam font designed by Hussain K H. The project was part of Rachana Aksharavedi for the original script of Malayalam in the digital computing. 
 
-License : GPLv3 or Later+ Font Exception
+Rachana has glyphs with varying stroke width and very suitable for mixing with Serif family fonts. Rachana font has about 1200+ glyphs for Malayalam and contains glyphs required for printing old Malayalam books without compromising the writing style. This font is optimized for printing with individually designed glyphs for complex conjuncts rather than using component glyphs. The opentype rules used in this font later became a reference for many other Malayalam fonts. It has carefully designed ascend, descend metrics optimized for Malayalam script's vertically stacked conjuncts.
+
+It is currently maintained by Swathanthra Malayalam Computing project. In 2015 Bold style variant of Rachana was designed by Hussain K H. Latin glyphs were also added to match the Malayalam glyphs. The source code for the font is available at https://gitlab.com/smc/rachana
 
 Installation
 ==========
@@ -29,7 +16,7 @@ You can find this font in [fonts page](http://smc.org.in/fonts/) of Swathanthra 
 * Download the font
 * To setup the fonts just copy it to ~/.fonts directory 
 * If you want it to be available to all users copy it to /usr/share/fonts.
-* You can check whether the fonts are installed correctly by running the command ```fc-list |grep Rachana ``` 
+* You can check whether the fonts are installed correctly by running the command ```fc-list Rachana ``` 
 * Restart the running applications so that the new fonts are available to them.
 * All aplications which depend on font config will be able to use the newly installed fonts.
 
@@ -42,16 +29,6 @@ git clone https://github.com/smc/Rachana.git
 cd Rachana
 make
 ```
-
-Rachana Bold
-==========
-Rachana Bold is created by designer of Rachana font, K.H Hussain . 
-Opentype featuring is done by Rajeesh K Nambiar. 
-This font is developed and maintained by Swathanthra Malayalam Computing
-This font is developed with the financial support from International 
-Centre for Free and Open Source Software(ICFOSS), Govt of Kerala in 2014-15
-
-License : OFL 1.1 
 
 Rachana Akshara Vedi
 =================
