@@ -34,3 +34,7 @@ test: compile
 		echo "Testing font $${font}";\
 		hb-view $${font}.ttf --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
 	done;
+
+clean:
+	@echo "Removing ttf files";
+	@rm -f *.ttf;
