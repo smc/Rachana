@@ -20,16 +20,6 @@ You can find this font in [fonts page](http://smc.org.in/fonts/) of Swathanthra 
 * Restart the running applications so that the new fonts are available to them.
 * All aplications which depend on font config will be able to use the newly installed fonts.
 
-Compilation
-===========
-To compile the font, clone the repository to your machine
-
-```
-git clone https://github.com/smc/Rachana.git
-cd Rachana
-make
-```
-
 Rachana Akshara Vedi
 =================
 Rachana is a language campaign forum for the Original script of Malayalam in the digital computing. 
@@ -37,3 +27,15 @@ It started in 1999 under the leadership of R. Chitrajakumar (Malayalam Lexicon, 
 
 Rachana fonts are the first set of Unicode compliant Open type fonts that contains the exhaustive character set of Malayalam compiled so far by Rachana team.
 
+
+Building from source
+--------------------
+1. Install fontforge and python-fontforge
+2. Install the python libraries required for build script:
+    ```
+    pip install -r tools/requirements.txt
+    ```
+3. Build the ttf, woff, woff2 files: 
+   ``` 
+   make
+   ```
