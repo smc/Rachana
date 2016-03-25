@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 fontpath=/usr/share/fonts/truetype/malayalam
-fonts=Rachana Rachana-Bold
+fonts=Rachana-Regular Rachana-Bold
 feature=features/features.fea
 PY=python2.7
 version=7.0
