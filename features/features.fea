@@ -5,7 +5,7 @@ languagesystem mlym dflt;
 
 include (tables.fea)
 include (lookups.fea)
-
+include (kerning.fea)
 # -------------------
 # BASIC SHAPING FORMS
 # -------------------

@@ -3,7 +3,6 @@
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=Rachana Rachana-Bold
 feature=features/features.fea
-kernfeature=features/kerning.fea
 PY=python2.7
 buildscript=tools/build.py
 default: compile
@@ -12,7 +11,7 @@ all: compile webfonts
 compile:
 	@for font in `echo ${fonts}`;do \
 		echo "Generating $$font.ttf";\
-		$(PY) $(buildscript) $$font.sfd $(feature) $(kernfeature);\
+		$(PY) $(buildscript) $$font.sfd $(feature);\
 	done;
 
 webfonts:compile
@@ -36,5 +35,4 @@ test: compile
 	done;
 
 clean:
-	@echo "Removing ttf files";
-	@rm -f *.ttf;
+	@rm -rf *.ttf *.sfd-* *.woff* *.eot
