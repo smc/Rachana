@@ -10,6 +10,8 @@ lookup kernHorizontalKerninglookup0 {
     pos xx quoteright 400;
     pos xx quotedblleft 400;
     pos xx quotedblright 400;
+    pos xx parenleft 200;
+    pos xx parenright 400;
 } kernHorizontalKerninglookup0;
 
 feature kern {
