@@ -91,9 +91,11 @@ feature psts {
     script mlm2;
         language dflt ;
             lookup psts_vowel_signs;
+            lookup psts_supress_dotted_circle;
     script mlym;
         language dflt ;
             lookup psts_vowel_signs;
+            lookup psts_supress_dotted_circle;
 } psts;
 
 feature haln {

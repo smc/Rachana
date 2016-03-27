@@ -476,6 +476,16 @@ lookup blws_la_sign_excludes {
         lookup restore_virama;
 } blws_la_sign_excludes;
 
+lookup replace_dotted_circle {
+    sub uni25CC by .null;
+} replace_dotted_circle;
+
+lookup psts_supress_dotted_circle {
+  lookupflag 0;
+    sub uni25CC' lookup replace_dotted_circle a2  [ anusvara m1 ] ;
+} psts_supress_dotted_circle;
+
+
 lookup psts_vowel_signs {
   lookupflag IgnoreMarks;
     sub y2 u1  by y2u1;
