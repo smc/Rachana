@@ -3,7 +3,7 @@ Rachana
 
 Rachana is Malayalam font designed by Hussain K H. The project was part of Rachana Aksharavedi for the original script of Malayalam in the digital computing. 
 
-Rachana has glyphs with varying stroke width and very suitable for mixing with Serif family fonts. Rachana font has about 1200+ glyphs for Malayalam and contains glyphs required for printing old Malayalam books without compromising the writing style. This font is optimized for printing with individually designed glyphs for complex conjuncts rather than using component glyphs. The opentype rules used in this font later became a reference for many other Malayalam fonts. It has carefully designed ascend, descend metrics optimized for Malayalam script's vertically stacked conjuncts.
+Rachana has glyphs with varying stroke width and very suitable for mixing with Serif family fonts. Rachana font has about 1200+ glyphs for Malayalam and contains glyphs required for printing old Malayalam books without compromising the writing style. This font is optimized for printing with individually designed glyphs for complex conjuncts rather than using component glyphs. The opentype rules used in this font later became a reference for many other Malayalam fonts. It has carefully designed ascent, descent metrics optimized for Malayalam script's vertically stacked conjuncts.
 
 It is currently maintained by Swathanthra Malayalam Computing project. In 2015 Bold style variant of Rachana was designed by Hussain K H. Latin glyphs were also added to match the Malayalam glyphs. The source code for the font is available at https://gitlab.com/smc/rachana
 
