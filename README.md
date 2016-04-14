@@ -1,15 +1,42 @@
 Rachana
 =======
 
-Rachana is Malayalam font designed by Hussain K H. The project was part of Rachana Aksharavedi for the original script of Malayalam in the digital computing. 
+Rachana is Malayalam font designed by Hussain K H. The project was part of Rachana
+Aksharavedi for the original script of Malayalam in the digital computing. 
 
-Rachana has glyphs with varying stroke width and very suitable for mixing with Serif family fonts. Rachana font has about 1200+ glyphs for Malayalam and contains glyphs required for printing old Malayalam books without compromising the writing style. This font is optimized for printing with individually designed glyphs for complex conjuncts rather than using component glyphs. The opentype rules used in this font later became a reference for many other Malayalam fonts. It has carefully designed ascent, descent metrics optimized for Malayalam script's vertically stacked conjuncts.
+Rachana has glyphs with varying stroke width and very suitable for mixing with 
+Serif family fonts. Rachana font has about 1200+ glyphs for Malayalam and contains
+glyphs required for printing old Malayalam books without compromising the writing
+style. This font is optimized for printing with individually designed glyphs for
+complex conjuncts rather than using component glyphs. The opentype rules used in
+this font later became a reference for many other Malayalam fonts. It has carefully designed
+ascent, descent metrics optimized for Malayalam script's vertically stacked conjuncts.
 
-It is currently maintained by Swathanthra Malayalam Computing project. In 2015 Bold style variant of Rachana was designed by Hussain K H. Latin glyphs were also added to match the Malayalam glyphs. The source code for the font is available at https://gitlab.com/smc/rachana
+Rachana was the first Malayalam font designed for its traditional exhaustive character set.
+Primarily it is a font for the body text like Times Roman.  It is basically a serif
+font but Malayalam serif fonts don’t carry serifs as in Roman typefaces. In Malayalam
+it is mainly a ‘thin and thick’ font without serifs at the end of stems. While 
+designing Roman glyphs for Rachana mere ‘thin and thick’ doesn’t suite to its straight
+stems. Rounded paths in Roman characters like a, b, c, O, o, Q, etc. could be described
+as in Malayalam but there is no scope for variation in thickness in characters like
+F, H, I, i, K, k, L, l, M, N, T, V, v, W, X, x, Y, y. A slight curving to inner (concave)
+is worked out and all Roman characters with vertical-horizontal stems became slightly
+thin and thick without sacrificing their inherent straightness. Inspiration of this bending
+can be traced to Optima font. With this stylization Roman glyphs turn into fitting with
+Malayalam glyphs without any visual conflict.
+ 
+For all Malayalam fonts vertical area in between ascent and descent should be re-calculated
+to give sufficient room for its vertical conjuncts under base line. X-height and Cap-height
+in all Malayalam Roman glyphs are therefore less than that in an ordinary Roman font.
+A design difference for Roman glyphs in all Malayalam typefaces with respect to 
+its vertical proportion is apparent.
+
+It is currently maintained by Swathanthra Malayalam Computing project.
+The source code for the font is available at https://gitlab.com/smc/rachana
 
 Installation
 ==========
-You can find this font in [fonts page](http://smc.org.in/fonts/) of Swathanthra Malayalam Computing site
+You can find this font in [fonts page](http://smc.org.in/fonts) of Swathanthra Malayalam Computing site
 
 ###Steps for installation
 
