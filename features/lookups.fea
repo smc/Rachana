@@ -169,7 +169,7 @@ lookup akhn_conditional_stacking {
     sub s1' xx' p1'  by s1p1;
     ignore sub y1' xx' [p1 ch1]' [xx r1 r2];
     sub y1' xx' p1'  by y1p1;
-    sub y1' xx' p1'  by y1ch1;
+    sub y1' xx' ch1'  by y1ch1;
     ignore sub zh' xx' ch1' [xx r1 r2];
     sub zh' xx' ch1'  by zhch1;
     ignore sub l3' xx' [p1 ch1]' [xx];
