@@ -135,7 +135,7 @@ lookup akhn_conjuncts {
     sub sh xx p1  by shp1;
     sub sh xx p2  by shp2;
     sub sh xx m1  by shm1;
-    sub s1 xx k1  by s1k1;
+    #sub s1 xx k1  by s1k1;
     sub s1 xx k1 xx k1  by s1k1k1;
     sub s1 xx k2  by s1k2;
     sub s1 xx t1  by s1t1;
@@ -165,8 +165,9 @@ lookup akhn_conjuncts {
 lookup akhn_conditional_stacking {
     ignore sub p3' xx' k3' [xx];
     sub p3' xx' k3'  by p3k3;
-    ignore sub s1' xx' p1' [xx];
+    ignore sub s1' xx' [p1 k1]' [xx];
     sub s1' xx' p1'  by s1p1;
+    sub s1' xx' k1'  by s1k1;
     ignore sub y1' xx' [p1 ch1]' [xx r1 r2];
     sub y1' xx' p1'  by y1p1;
     sub y1' xx' ch1'  by y1ch1;
