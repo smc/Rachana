@@ -752,13 +752,13 @@ GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 156 26 10
+WinInfo: 153 17 11
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "dotreph" "" 
+AnchorClass2: "dotreph""" 
 BeginChars: 1186 1185
 
 StartChar: .notdef
