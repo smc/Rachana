@@ -12,6 +12,11 @@ lookup kernHorizontalKerninglookup0 {
     pos xx quotedblright 400;
     pos xx parenleft 200;
     pos xx parenright 400;
+    pos avagraha quotesingle 200;
+    pos avagraha quotedbl 200;
+    pos avagraha quoteright 200;
+    pos avagraha quotedblright 200;
+    pos parenleft avagraha 80;
 } kernHorizontalKerninglookup0;
 
 feature kern {
