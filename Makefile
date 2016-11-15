@@ -27,7 +27,7 @@ woff2: compile
 
 install: compile
 	@for font in `echo ${fonts}`;do \
-		install -D -m 0644 $${font}.otf ${DESTDIR}/${fontpath}/$${font}.ttf;\
+		install -D -m 0644 $${font}.ttf ${DESTDIR}/${fontpath}/$${font}.ttf;\
 	done;
 
 test: compile
@@ -37,4 +37,4 @@ test: compile
 		hb-view $${font}.ttf --font-size 14 --margin 100 --line-space 1.5 --foreground=333333  --text-file tests/tests.txt --output-file tests/$${font}.pdf;\
 	done;
 clean:
-	@rm -rf *.otf *.ttf *.woff *.woff2 *.sfd-*
+	@rm -rf *.otf *.ttf *.woff *.woff2 *.sfd-* tests/*.pdf
