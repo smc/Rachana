@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1479538886
+ModificationTime: 1482315800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -755,7 +755,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 17 14
+WinInfo: 144 16 16
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph""" 
@@ -72252,7 +72252,7 @@ EndChar
 
 StartChar: l1
 Encoding: 272 3426 1049
-Width: 2048
+Width: 30
 Flags: W
 LayerCount: 2
 Fore
