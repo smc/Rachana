@@ -63,6 +63,13 @@ def validateGlyphs(font):
             glyph.references = refs
 
 
+def fixGasp(font, value=15):
+     try:
+        table = font.get('gasp')
+        table.gaspRange[65535] = value
+     except:
+        print('ER: {}: no table gasp')
+
 def opentype(infont, type, feature, version):
     font = fontforge.open(infont)
     if args.type == 'otf':
@@ -126,6 +133,7 @@ def opentype(infont, type, feature, version):
 
     name.names = names
 
+    fixGasp(font)
     # FFTM is FontForge specific, remove it
     del(font['FFTM'])
     # force compiling GPOS/GSUB tables by fontTools, saves few tens of KBs
