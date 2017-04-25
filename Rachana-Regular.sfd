@@ -1,6 +1,6 @@
 SplineFontDB: 3.0
 FontName: Rachana-Regular
-FullName: Rachana Regular
+FullName: Rachana
 FamilyName: Rachana
 Weight: Regular
 Copyright: Digitized data copyright (c) 2004-2005 Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose), (c)  2006-2016 Hussain K H, Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1493131312
+ModificationTime: 1493133003
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -747,8 +747,8 @@ ShortTable: maxp 16
   0
 EndShort
 LangName: 1100 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+DTANGg0o"
-LangName: 1033 "" "" "Regular" "" "" "7.0" "" "" "" "Hussain KH" "" "http://smc.org.in" "http://smc.org.in" "Digitized data copyright (C) 2007-2016 Hussain K.H, Suresh P, Santhosh Thottingal, Rajeesh Nambiar, Swathanthra Malayalam Computing(http://smc.org.in)+AAoA    +AAoA    This program is free software: you can redistribute it and/or modify+AAoA    it under the terms of  SIL Open Font License, Version 1.1  or the +AAoA    GNU General Public License as published by the Free Software Foundation,+AAoA    either version 3 of the License, or (at your option) any later version.+AAoACgAA  +AAoA    This Font Software is Duel licensed under the SIL Open Font License,+AAoA    Version 1.1 and GPLV3+- Licence with Font Exception.+AAoA-Check COPYING  file at https://gitlab.com/smc/rachana for details " "https://gitlab.com/smc/rachana/blob/master/COPYING" "" "Rachana" "Regular" "Rachana"
-GaspTable: 1 65535 15 0
+LangName: 1033 "" "" "" "" "" "7.0" "" "" "" "Hussain KH" "" "http://smc.org.in" "http://smc.org.in" "Digitized data copyright (C) 2007-2016 Hussain K.H, Suresh P, Santhosh Thottingal, Rajeesh Nambiar, Swathanthra Malayalam Computing(http://smc.org.in)+AAoA    +AAoA    This program is free software: you can redistribute it and/or modify+AAoA    it under the terms of  SIL Open Font License, Version 1.1  or the +AAoA    GNU General Public License as published by the Free Software Foundation,+AAoA    either version 3 of the License, or (at your option) any later version.+AAoACgAA  +AAoA    This Font Software is Duel licensed under the SIL Open Font License,+AAoA    Version 1.1 and GPLV3+- Licence with Font Exception.+AAoA-Check COPYING  file at https://gitlab.com/smc/rachana for details " "https://gitlab.com/smc/rachana/blob/master/COPYING" "" "Rachana" "Regular" "Rachana"
+GaspTable: 1 65535 3 0
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -77767,9 +77767,9 @@ EndChar
 
 StartChar: uni00A0
 Encoding: 1186 160 1186
-Width: 504
+Width: 566
 VWidth: 0
-Flags: W
+Flags: WO
 LayerCount: 2
 EndChar
 EndChars
