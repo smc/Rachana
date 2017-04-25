@@ -67,10 +67,10 @@ def opentype(infont, type, feature, version):
     font = fontforge.open(infont)
     if args.type == 'otf':
         outfont = infont.replace(".sfd", ".otf")
-        flags = ("opentype",  "round", "omit-instructions")
+        flags = ("opentype",  "round", "omit-instructions", "dummy-dsig")
     else:
         outfont = infont.replace(".sfd", ".ttf")
-        flags = ("opentype", "round", "omit-instructions")
+        flags = ("opentype", "round", "omit-instructions", "dummy-dsig")
     print("Generating %s => %s" % (infont, outfont))
     tmpfont = mkstemp(suffix=os.path.basename(outfont))[1]
 
