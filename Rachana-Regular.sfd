@@ -1,6 +1,6 @@
 SplineFontDB: 3.0
 FontName: Rachana-Regular
-FullName: Rachana
+FullName: Rachana Regular
 FamilyName: Rachana
 Weight: Regular
 Copyright: Digitized data copyright (c) 2004-2005 Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose), (c)  2006-2016 Hussain K H, Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)
@@ -17,11 +17,11 @@ Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 XUID: [1021 400 913805956 3576851]
 FSType: 0
-OS2Version: 1
+OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1493133003
+ModificationTime: 1493305969
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ OS2SupXOff: 0
 OS2SupYOff: 980
 OS2StrikeYSize: 102
 OS2StrikeYPos: 512
-OS2Vendor: 'PfEd'
+OS2Vendor: 'SMC '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002000.00000000.00000000
 MarkAttachClasses: 2
@@ -77109,7 +77109,7 @@ StartChar: uni00A0
 Encoding: 1186 160 1186
 Width: 566
 VWidth: 0
-Flags: WO
+Flags: W
 LayerCount: 2
 EndChar
 EndChars

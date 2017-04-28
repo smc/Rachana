@@ -97,7 +97,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 6
+WinInfo: 32 8 2
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph""" 
