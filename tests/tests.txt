@@ -73,7 +73,7 @@ Two-part dependent vowel signs
 ----------------------------
  ൊ 0D4A
  ോ 0D4B
- ൗ 0D4C
+ ൌ 0D4C
 
 Virama
 ------
