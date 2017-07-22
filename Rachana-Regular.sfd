@@ -95,7 +95,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 602 43 14
+WinInfo: 0 43 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph""" 
@@ -76338,7 +76338,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: anuswaraabove
+StartChar: anusvaraabove
 Encoding: 1187 3328 1187
 Width: 0
 Flags: W
