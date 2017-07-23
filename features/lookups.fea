@@ -166,7 +166,7 @@ lookup akhn_conditional_stacking {
     ignore sub k1' xx' t1' [xx t1];
     sub k1' xx' t1'  by k1t1;
     ignore sub k1' xx' n1' [r1 r2 l1 l2];
-		sub k1' xx' n1'  by k1n1;
+    sub k1' xx' n1'  by k1n1;
     ignore sub k1' xx' n1' [xx n1];
     sub k1' xx' n1'  by k1n1;
     ignore sub p3' xx' k3' [xx];
@@ -447,6 +447,7 @@ lookup pres_reph {
 } pres_reph;
 
 lookup blws_la_signs {
+  lookupflag IgnoreMarks;
     sub k1xx l3  by k1l3;
     sub k1 l4  by k1l3;
     sub k3xx l3  by k3l3;
