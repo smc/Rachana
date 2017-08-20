@@ -2,7 +2,7 @@
 
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=Rachana-Regular Rachana-Bold
-feature=features/features.fea
+features=features
 PY=python2.7
 buildscript=tools/build.py
 version=7.0
@@ -10,7 +10,7 @@ default: compile
 all: compile webfonts test
 compile:
 	@for font in `echo ${fonts}`;do \
-		$(PY) $(buildscript) -t ttf -i $$font.sfd -f $(feature) -v $(version);\
+		$(PY) $(buildscript) -t ttf -i $$font.sfd -f $(features)/$$font.fea -v $(version);\
 	done;
 
 webfonts:woff woff2
