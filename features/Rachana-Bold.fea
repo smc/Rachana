@@ -5,6 +5,6 @@ languagesystem mlym dflt;
 
 include (tables.fea)
 include (lookups.fea)
-include (regular-gpos.fea)
+include (bold-gpos.fea)
 include (features.fea)
 include (kerning.fea)
