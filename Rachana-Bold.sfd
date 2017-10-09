@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1500705111
+ModificationTime: 1507568280
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -100,7 +100,7 @@ WinInfo: 800 32 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph""" 
-BeginChars: 1172 1172
+BeginChars: 1173 1173
 
 StartChar: .notdef
 Encoding: 291 -1 0
@@ -90808,7 +90808,7 @@ EndChar
 StartChar: verticalbarvirama
 Encoding: 1169 3387 1168
 Width: 0
-Flags: WO
+Flags: W
 HStem: -48 317 1199 40
 VStem: 136 317
 LayerCount: 2
@@ -90921,6 +90921,17 @@ SplineSet
  1662 381 1662 381 1662 429.5 c 4,66,67
  1662 525 1662 525 1643 582 c 4,54,55
 EndSplineSet
+EndChar
+
+StartChar: archaic_ii
+Encoding: 1172 3423 1172
+Width: 2220
+Flags: WO
+LayerCount: 2
+Fore
+Refer: 99 3330 N 0.672911 0 0 0.68777 1660.14 101.819 2
+Refer: 99 3330 N 0.672911 0 0 0.68777 57.1383 84.8187 2
+Refer: 141 3376 N 1 0 0 1 582 0 2
 EndChar
 EndChars
 EndSplineFont
