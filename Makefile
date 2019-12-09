@@ -3,7 +3,7 @@
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=Rachana-Regular Rachana-Bold
 features=features
-PY=python2.7
+PY=python3
 buildscript=tools/build.py
 version=7.0
 outdir=build
