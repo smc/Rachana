@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2014-2019 Rajeesh K V <rajeeshknambiar@fedoraproject.org> -->
+<!-- Copyright 2019 Balasankar C <balasankarc@autistici.org -->
+<!-- Copyright 2019 Swathanthra Malayalam Computing <contact@smc.org.in -->
 <component type="font">
-  <id>smc-rachana</id>
+  <id>in.org.smc.rachana</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>OFL-1.1 OR (GPL-3.0-or-later WITH Font-exception-2.0)</project_license>
   <name>Rachana font</name>
@@ -18,8 +20,16 @@
         more than 1000 glyphs.
     </p>
   </description>
-  <updatecontact>rajeeshknambiar_at_fedoraproject_dot_org</updatecontact>
-  <url type="homepage">http://wiki.smc.org.in/Fonts</url>
+  <update_contact>contact_at_smc_org_in</update_contact>
+  <provides>
+          <font>Rachana Regular</font>
+          <font>Rachana Bold</font>
+  </provides>
+  <languages>
+          <lang>ml</lang>
+          <lang>en</lang>
+  </languages>
+  <url type="homepage">https://wiki.smc.org.in/Fonts</url>
   <metadata>
   <value key="FontSampleText">മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും
 	 സ്വാതന്ത്ര്യത്തോടും കൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്
