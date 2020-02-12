@@ -9,7 +9,7 @@ Digitized data copyright (c) 2004-2005 Rachana Akshara Vedi (Chitrajakumar R, Hu
     either version 3 of the License, or (at your option) any later version.
 
   
-    This Font Software is duel licensed under the SIL Open Font License,
+    This Font Software is dual licensed under the SIL Open Font License,
     Version 1.1 and GPLV3+ Licence with Font Exception.These licenses are
     copied below
 
